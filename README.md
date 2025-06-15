@@ -20,7 +20,7 @@ I also have an [account](https://github.com/pattlearn) to archive some of my old
 
 <h2>Connect with Me</h2>
 
-<div align="center" style="margin:10px;">
+<div align="center" >
 <a href="https://github.com/Rattanapatt">
     <img src="assets\github.png" width="50px"/>
 </a>
