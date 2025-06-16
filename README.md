@@ -31,6 +31,12 @@ I also have an [account](https://github.com/pattlearn) to archive some of my old
         A collection of data projects
         </p>
     </li>
+    <li>
+        <b><a href="https://github.com/pattlearn/leetcode-answer">LeetCode Solutions</a></b>
+        <p>
+        A collection of solutions of LeetCode problems
+        </p>
+    </li>
 </ul>
 
 <h2 align="center">Connect with Me</h2>
