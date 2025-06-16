@@ -12,7 +12,7 @@ I also have an [account](https://github.com/pattlearn) to archive some of my old
 <h3 align="center">My Tech Stack</h3>
 <summary align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,c,cpp,git,blender,discord,github,npm,react,sqlite,vscode&theme=dark&perline=7)]()
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,c,cpp,git,blender,discord,github,npm,react,sqlite,vscode&theme=dark&perline=7)](https://github.com/Rattanapatt)
 
 </summary>
 
