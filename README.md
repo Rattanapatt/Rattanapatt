@@ -18,11 +18,20 @@ I also have an [account](https://github.com/pattlearn) to archive some of my old
 
 <h2 align="center">Projects</h2>
 
-<b><a href="">Data Projects Bundle</a></b>
-A collection of data projects
-
-<b><a href="">Data Projects Bundle</a></b>
-A collection of data projects
+<ul>
+    <li>
+        <b><a href="https://github.com/Rattanapatt/data-projects">Data Projects</a></b>
+        <p>
+        A collection of data projects
+        </p>
+    </li>
+    <li>
+        <b><a href="https://github.com/Rattanapatt/software-projects">Software Projects</a></b>
+        <p>
+        A collection of data projects
+        </p>
+    </li>
+</ul>
 
 <h2 align="center">Connect with Me</h2>
 
