@@ -1,7 +1,7 @@
 <h1 align="center">Hello there! 👋</h1>
 
 <div align="center">
-    <img src="assets\Bobby G.png" width="50%" style="border-radius:50%;"/>
+    <img src="assets\Bobby G.png" width="33%" style="border-radius:50%;"/>
 </div>
 
 <h2 align="center">About me</h2>
@@ -16,9 +16,15 @@ I also have an [account](https://github.com/pattlearn) to archive some of my old
 
 </summary>
 
-<h2>Projects</h2>
+<h2 align="center">Projects</h2>
 
-<h2>Connect with Me</h2>
+<b><a href="">Data Projects Bundle</a></b>
+A collection of data projects
+
+<b><a href="">Data Projects Bundle</a></b>
+A collection of data projects
+
+<h2 align="center">Connect with Me</h2>
 
 <div align="center" >
 <a href="https://github.com/Rattanapatt">
